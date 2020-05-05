@@ -1,16 +1,12 @@
 {
-  "name": "pkgcloud",
+  "name": "xompass-pkgcloud",
   "description": "A provider agnostic cloud library for Node.js",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "contributors": [
-    "Ross Kukulinski <ross@kukulinski.com>",
-    "Jarrett Cruger <jcrugzz@gmail.com>",
-    "Ken Perkins <ken.perkins@rackspace.com>"
-  ],
+  "contributors": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/pkgcloud/pkgcloud.git"
+    "url": "http://github.com/xompass/pkgcloud.git"
   },
   "keywords": [
     "cloud",
