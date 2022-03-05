@@ -1,7 +1,7 @@
 {
   "name": "@xompass/pkgcloud",
   "description": "A provider agnostic cloud library for Node.js",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "contributors": [],
   "repository": {
